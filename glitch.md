@@ -5,4 +5,5 @@ I recommend https://rasbytte.net (https://discord.gg/vds)
 # Pwned tokens
 MTAxNjYwMDM4NjE1ODc0MzYwMw.GHO8Sn.Qi800IwfJjfsDF6QHADYo62LWxRpHPXJbGoy4Y\
 OTE5MzEyMzM2MDIyNTQ0NDM0.YbT-VA.Xbr8SjTaDf-cohJr5hsgL2CT7Bs\
-Nzc1Nzc5MjA3MTc5NDAzMzA0.X6rSsA.l6QmEVXTyMipBoiVQ9mpAUxAVf8
+Nzc1Nzc5MjA3MTc5NDAzMzA0.X6rSsA.l6QmEVXTyMipBoiVQ9mpAUxAVf8\
+MTA0NjM4NTcxMDAxOTY0NTUyMQ.GARCl1.-udsV2DKeFkDxX2S_dsoDLOSJjUuTZnyrFjw_U
